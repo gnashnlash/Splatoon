@@ -20,7 +20,7 @@ using ECommons.DalamudServices.Legacy;
 namespace SplatoonScriptsOfficial.Duties.Dawntrail.The_Futures_Rewritten;
 public unsafe class P5_Fulgent_Blade_Dodge : SplatoonScript
 {
-    public override HashSet<uint>? ValidTerritories => [1238];
+    public override HashSet<uint>? ValidTerritories => [179];
     public override Metadata? Metadata => new(3, "NightmareXIV");
 
     private long MechanicStartTime = 0;
