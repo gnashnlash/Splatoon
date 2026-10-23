@@ -1,8 +1,8 @@
 >[!Important]
 >
 ># For convenience, certain mechanics and/or scripts are moved to dedicated pages.
->## [Bowels of Agony (click me)](https://github.com/PunishXIV/Splatoon/blob/main/Presets/Dawntrail/Raids/Ultimate%20-%20Dancing%20Mad/Phase%203/1.%20Bowels%20of%20Agony.md)
->## [Black Hole Lite script (click me)](https://github.com/PunishXIV/Splatoon/blob/main/Presets/Dawntrail/Raids/Ultimate%20-%20Dancing%20Mad/Phase%203/2.%20Black%20Hole%20Lite%20script.md)
+>## [Bowels of Agony (click me)](https://github.com/gnashnlash/Splatoon/blob/main/Presets/Dawntrail/Raids/Ultimate%20-%20Dancing%20Mad/Phase%203/1.%20Bowels%20of%20Agony.md)
+>## [Black Hole Lite script (click me)](https://github.com/gnashnlash/Splatoon/blob/main/Presets/Dawntrail/Raids/Ultimate%20-%20Dancing%20Mad/Phase%203/2.%20Black%20Hole%20Lite%20script.md)
 
 
 # General casts
