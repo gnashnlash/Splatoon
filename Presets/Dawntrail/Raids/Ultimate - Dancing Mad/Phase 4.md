@@ -12,6 +12,6 @@ https://github.com/PunishXIV/Splatoon/raw/refs/heads/main/SplatoonScripts/Duties
 
 ```
 ```
-https://github.com/gnashnlash/Splatoon/raw/refs/heads/main/SplatoonScripts/Duties/Dawntrail/Dancing%20Mad/P4_Debuff_Reminder.cs
+https://github.com/gnashnlash/Splatoon/raw/refs/heads/main/SplatoonScripts/Duties/Dawntrail/Dancing%20Mad/P4_Debuff_Reminder_Roost.cs
 
 ```
