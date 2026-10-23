@@ -9,5 +9,6 @@ Some are shared with Phase 1. Import [General casts from Phase 1 page](https://g
 
 ```
 https://github.com/PunishXIV/Splatoon/raw/refs/heads/main/SplatoonScripts/Duties/Dawntrail/Dancing%20Mad/P4_Debuff_Reminder.cs
+https://github.com/gnashnlash/Splatoon/raw/refs/heads/main/SplatoonScripts/Duties/Dawntrail/Dancing%20Mad/P4_Debuff_Reminder.cs
 
 ```
